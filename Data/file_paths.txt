@@ -1,0 +1,9 @@
+
+File Paths:
+
+"C:\Users\imad3\Documents\School\DSBA-5122\Midterm_Project\Midterm_Project\Data\
+
+
+Student Loans
+"C:/Users/imad3/Documents/School/DSBA-5122/Midterm_Project/Midterm_Project/Data/StudentLoans.xlsx"
+"Data/StudentLoans.xlsx"

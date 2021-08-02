@@ -17,6 +17,7 @@ How to recreate the Shiny App:
 2) Be sure to keep the folder structured "as is". The data files should go in the data folder. The shiny app file (App.R) should be in the "Wealth inequality App" folder.
 
 To Begin: 
+
 3) There is a Project file called "Wealth Inequality Shiny App.Rproj" - you want to start here and open this file.
 4) It should automatically load 2 files within RStudio:  Get_the_data.R  &  App.R 
 5) Get_the_data.R <- is the main R stript that modifies the data, creates variable names and so on. Run the complete file.

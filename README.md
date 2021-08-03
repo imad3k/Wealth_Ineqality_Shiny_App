@@ -1,4 +1,4 @@
-# Wealth_Ineqality_Shiny_App
+# Wealth Ineqality Shiny_App
 Class project for DSBA 5122: Visual Analytics
 
 Hey all, this is a Shiny App created with RStudio. The app is deployed on Shinyapps.io (https://imad3k.shinyapps.io/Final_Project/), please give it a visit.

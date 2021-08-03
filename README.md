@@ -1,6 +1,8 @@
 # Wealth Ineqality Shiny_App
 Class project for DSBA 5122: Visual Analytics
 
+![GitHub Logo](https://logos-world.net/wp-content/uploads/2020/06/Charlotte-49ers-Logo.png)
+
 Hey all, this is a Shiny App created with RStudio. The app is deployed on Shinyapps.io (https://imad3k.shinyapps.io/Final_Project/), please give it a visit.
 
 The goal of this project was to take a dataset from Tidy Tuesday and try to recreate some of the charts presented.
